@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "527686368550",
+    "project_id": "calories-app-4abfb",
+    "storage_bucket": "calories-app-4abfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527686368550:android:a122c29079f9516103d5e7",
+        "android_client_info": {
+          "package_name": "com.example.calories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527686368550-tvq5adm7q354ghk2h8h5ahj4j12dpbv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calories",
+            "certificate_hash": "36bdddbc1869c623e8e725054062cbf163bdafa3"
+          }
+        },
+        {
+          "client_id": "527686368550-h29iogdkqkkpd2lge8ndc604gac3334q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvJ5foMBXpwAbp-K52NXa1JOGtsgH4kSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527686368550-h29iogdkqkkpd2lge8ndc604gac3334q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
